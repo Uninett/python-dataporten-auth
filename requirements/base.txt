@@ -1,2 +1,2 @@
 jwkest
-social-auth-core==1.4.0
+social-auth-core==5.0.0
